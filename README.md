@@ -1,5 +1,3 @@
-# 📖 ICTNet-Main: Multiscale Interactive Attention Fusion Network for Hyperspectral Image Classification (ESWA 2025)
+# 📖 ICTNet-Main
 
-Demo code of ["MIAF-Net: Multiscale Interactive Attention Fusion Network for Hyperspectral Image Classification"](https://www.sciencedirect.com/science/article/abs/pii/S0957417425020056)
-
-- Authors: Jinliang An, Longlong Dai, Weidong Zhang and Xiangrong Zhang
+The code will be made publicly available after the paper is accepted.
